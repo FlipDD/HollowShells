@@ -11,3 +11,5 @@ Source for Hollow Shells
 ## A game (almost) fully developed in C++ using Unreal Engine
 
 ## Full project at https://gitlab.com/flipdd/lastshellrepo
+
+## Trailer at https://www.youtube.com/watch?v=LvvYSq7WSt8&t
